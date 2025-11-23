@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
+
+#nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#nav{
+    background-color: rgb(3, 2, 88);
+    padding: 1%;
+    margin: 0;
+}
+#home{
+    text-align: center;
+    padding: 5%;
+    background-image: url(https://www.bing.com/th/id/OIP.ironpfbcq8kHdQLtY-YXVAHaEK?w=272&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0 0 30px 0 ;
+    color: aliceblue;
+}
+home ul{
+    list-style: none;
+}

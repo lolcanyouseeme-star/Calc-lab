@@ -1,0 +1,7 @@
+* value, data types and variables
+    value -the data that we will be working with
+    data type - this are the kind of data, how it is stored (ie: strings, numbers, Booleans, Null, Undefined)
+    a variable - a container that stores a value in memory, are used to retrieve the same value 
+* Expressions: combine values, variables and operations to compute a certain value 
+* Statements (conditional, control flow) they are ways that control how a function or process is executed
+* Function: reusable bit/blocks of code
